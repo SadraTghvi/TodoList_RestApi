@@ -62,6 +62,7 @@ db.sqlite3-journal
 migrations/
 images/
 !__init__.py
+__init__.py
 
 
 # Flask stuff:
